@@ -17,7 +17,7 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Property Finder'
+            title='Travandoz'
             backgroundImg={Travandoz}
             projectUrl='https://github.com/akm-xdd/travandoz'
             tech='Python DJango'
