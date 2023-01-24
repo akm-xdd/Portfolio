@@ -15,7 +15,7 @@ const Main = () => {
           <h1 className='py-4 text-gray-700'>
             Hello, I am <span className='text-[#7843e6]'> Anand!</span>
           </h1>
-          <h1 className='py-2 text-gray-700'>I'm a Java and Python Developer</h1>
+          <h1 className='py-2 text-gray-700'>I&#39;m a Java and Python Developer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
             I am a passionate developer who loves to code and build things.
             This is my portfolio website. You can learn more about me here.
